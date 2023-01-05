@@ -1,0 +1,78 @@
+D:\studies\projects\asp.net\Party Invites\Party Invites\bin\Debug\net6.0\appsettings.Development.json
+D:\studies\projects\asp.net\Party Invites\Party Invites\bin\Debug\net6.0\appsettings.json
+D:\studies\projects\asp.net\Party Invites\Party Invites\bin\Debug\net6.0\Party Invites.staticwebassets.runtime.json
+D:\studies\projects\asp.net\Party Invites\Party Invites\bin\Debug\net6.0\Party Invites.exe
+D:\studies\projects\asp.net\Party Invites\Party Invites\bin\Debug\net6.0\Party Invites.deps.json
+D:\studies\projects\asp.net\Party Invites\Party Invites\bin\Debug\net6.0\Party Invites.runtimeconfig.json
+D:\studies\projects\asp.net\Party Invites\Party Invites\bin\Debug\net6.0\Party Invites.dll
+D:\studies\projects\asp.net\Party Invites\Party Invites\bin\Debug\net6.0\Party Invites.pdb
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\Party Invites.csproj.AssemblyReference.cache
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\Party Invites.GeneratedMSBuildEditorConfig.editorconfig
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\Party Invites.AssemblyInfoInputs.cache
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\Party Invites.AssemblyInfo.cs
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\Party Invites.csproj.CoreCompileInputs.cache
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\Party Invites.MvcApplicationPartsAssemblyInfo.cache
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\Party Invites.RazorAssemblyInfo.cache
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\Party Invites.RazorAssemblyInfo.cs
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\staticwebassets.build.json
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\staticwebassets.development.json
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\scopedcss\bundle\Party Invites.styles.css
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\scopedcss\projectbundle\Party Invites.bundle.scp.css
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\Party Invites.dll
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\refint\Party Invites.dll
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\Party Invites.pdb
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\Party Invites.genruntimeconfig.cache
+D:\studies\projects\asp.net\Party Invites\Party Invites\obj\Debug\net6.0\ref\Party Invites.dll
+D:\studies\projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\appsettings.Development.json
+D:\studies\projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\appsettings.json
+D:\studies\projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\Party Invites.staticwebassets.runtime.json
+D:\studies\projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\Party Invites.exe
+D:\studies\projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\Party Invites.deps.json
+D:\studies\projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\Party Invites.runtimeconfig.json
+D:\studies\projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\Party Invites.dll
+D:\studies\projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\Party Invites.pdb
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.csproj.AssemblyReference.cache
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.GeneratedMSBuildEditorConfig.editorconfig
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.AssemblyInfoInputs.cache
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.AssemblyInfo.cs
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.csproj.CoreCompileInputs.cache
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.MvcApplicationPartsAssemblyInfo.cache
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.RazorAssemblyInfo.cache
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.RazorAssemblyInfo.cs
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\staticwebassets.build.json
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\staticwebassets.development.json
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\scopedcss\bundle\Party Invites.styles.css
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\scopedcss\projectbundle\Party Invites.bundle.scp.css
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.dll
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\refint\Party Invites.dll
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.pdb
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.genruntimeconfig.cache
+D:\studies\projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\ref\Party Invites.dll
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\appsettings.Development.json
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\appsettings.json
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\Party Invites.staticwebassets.runtime.json
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\Party Invites.exe
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\Party Invites.deps.json
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\Party Invites.runtimeconfig.json
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\Party Invites.dll
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\bin\Debug\net6.0\Party Invites.pdb
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.csproj.AssemblyReference.cache
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.GeneratedMSBuildEditorConfig.editorconfig
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.AssemblyInfoInputs.cache
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.AssemblyInfo.cs
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.csproj.CoreCompileInputs.cache
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.MvcApplicationPartsAssemblyInfo.cache
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.RazorAssemblyInfo.cache
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.RazorAssemblyInfo.cs
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\staticwebassets.build.json
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\staticwebassets.development.json
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\scopedcss\bundle\Party Invites.styles.css
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\scopedcss\projectbundle\Party Invites.bundle.scp.css
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.dll
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\refint\Party Invites.dll
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.pdb
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\Party Invites.genruntimeconfig.cache
+D:\Educational\Projects\asp.net\PartyInvites\Party Invites\obj\Debug\net6.0\ref\Party Invites.dll
